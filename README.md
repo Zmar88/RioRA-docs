@@ -17,7 +17,7 @@ Developed as the **second phase** of the broader Digital Twin and AR initiative,
   Intelligent conversational support for maintenance and troubleshooting, powered by an integrated AI chatbot.  
 
 --- 
-
+ 
 ## 🏭 Industrial Context
 The application was developed and tested in partnership with **RIOPELE**, one of Portugal’s leading textile manufacturers, integrating AR technologies directly into the factory maintenance workflow.
 
