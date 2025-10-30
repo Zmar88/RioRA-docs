@@ -16,16 +16,18 @@ Developed as the **second phase** of the broader Digital Twin and AR initiative,
 - 🤖 **AI Virtual Assistant (ChatBot)**  
   Intelligent conversational support for maintenance and troubleshooting, powered by an integrated AI chatbot.  
 
----
+--- 
 
 ## 🏭 Industrial Context
 The application was developed and tested in partnership with **RIOPELE**, one of Portugal’s leading textile manufacturers, integrating AR technologies directly into the factory maintenance workflow.
 
 ---
 
-## 🎥 Demo Videos 
-- 🎬 **3D Maintenance Guidance** → [Watch on YouTube](https://youtu.be/HsUUC3uvDoE) 
-- 📱 **App overview** → [Watch on YouTube](https://youtu.be/gW9wI5Jgkyo)
-- 💬 **AI Virtual Assistant interaction** → [Watch on YouTube](https://youtu.be/JtM2-vN8-uo)  
+## 🎥 Demo Videos
+- 🧰 **3D Maintenance Guidance – Example 1** → [Watch on YouTube](https://youtu.be/HsUUC3uvDoE)  
+- 🧩 **3D Maintenance Guidance – Example 2** → [Watch on YouTube](https://youtu.be/ZzpdcF1wKoY)  
+- 📱 **App Overview** → [Watch on YouTube](https://youtu.be/gW9wI5Jgkyo)  
+- 💬 **AI Virtual Assistant Interaction** → [Watch on YouTube](https://youtu.be/JtM2-vN8-uo)  
+- 🕶️ **Magic Leap 2 Version** → [Watch on YouTube](https://youtu.be/M6f9W4Jb8_Y)  
 
 
